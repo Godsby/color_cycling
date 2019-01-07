@@ -1,0 +1,16 @@
+#primaryColor {
+  width: 500px;
+  height: 500px
+}
+
+.red {
+  background-color: red
+}
+
+.yellow {
+  background-color: yellow
+}
+
+.blue {
+  background-color: blue
+}
